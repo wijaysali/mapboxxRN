@@ -88,3 +88,4 @@ const styles = StyleSheet.create({
   },
 });
 
+Screenshot: https://drive.google.com/file/d/1yZO2Rch2K24vl8G-YGcesdOA82Lufkyd/view?usp=sharing
